@@ -18,7 +18,8 @@ This project presents an interactive Ecommerce Dashboard built using Power BI to
 - Excel / CSV Dataset
 
 ## 📷 Dashboard Preview
-![Ecommerce Dashboard]([Screenshot%202026-03-29%20184553.png](https://github.com/Ankitsahu0126/PowerBI-Ecommerce-Dashboard/blob/main/Screenshot%202026-02-22%20235110.png))
+## 📷 Dashboard Preview
+![Ecommerce Dashboard](Screenshot%202026-02-22%20235110.png)
 
 ## 👤 Author
 Ankit Sahu
