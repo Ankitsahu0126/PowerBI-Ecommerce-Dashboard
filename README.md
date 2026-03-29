@@ -16,7 +16,7 @@ This project presents an interactive Ecommerce Dashboard built using Power BI to
 - Data Cleaning & Transformation
 - DAX (Data Analysis Expressions)
 - Excel / CSV Dataset
-- 
+
 ## 📷 Dashboard Preview
 ![Ecommerce Dashboard](Screenshot%202026-02-22%20235110.png)
 
